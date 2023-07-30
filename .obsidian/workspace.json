@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3bd67adc4c7850d",
+  "active": "713fe384aef0a5d8",
   "lastOpenFiles": [
+    "revert test.md",
+    "GIT.md",
     "Заметка 2.md",
-    "Заметка 1.md",
-    "GIT.md"
+    "Заметка 1.md"
   ]
 }
